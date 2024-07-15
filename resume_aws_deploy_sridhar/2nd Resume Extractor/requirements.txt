@@ -1,0 +1,7 @@
+boto3
+spacy
+PyPDF2
+docx2txt
+textract
+torch
+transformers
