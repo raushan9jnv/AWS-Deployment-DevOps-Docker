@@ -1,0 +1,9 @@
+docx2txt
+PyPDF2
+openpyxl
+regex
+spacy
+scikit-learn
+tika
+boto3
+requests
